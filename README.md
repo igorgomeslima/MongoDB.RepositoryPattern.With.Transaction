@@ -134,3 +134,6 @@ thus our **concrete class implementation** of `IUnitOfWork` needs to change acco
 If you find any failure/problems or have knowledge to improve this solution, I kindly ask you to contact me, either by *E-mail, Pull Request or Issue*.
 
 :)
+
+**Resources used**
+> [Working with MongoDB Transactions with C# and the .NET Framework](https://developer.mongodb.com/how-to/transactions-c-dotnet)
